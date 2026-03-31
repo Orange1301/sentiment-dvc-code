@@ -1,0 +1,4 @@
+[core]
+    remote = dagshub
+['remote "dagshub"']
+    url = https://dagshub.com/Orange1301/sentiment-dvc-code.dvc
